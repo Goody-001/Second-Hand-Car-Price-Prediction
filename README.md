@@ -34,7 +34,7 @@ The model performs well for a first attempt, capturing approximately 88% of the 
 To install dependencies:
 pip install -r requirements.txt
 
-How to Run
+## How to Run
 Clone this repository or download the files.
 Ensure you have Python installed with the required libraries.
 Open the Jupyter Notebook (.ipynb) file.
@@ -43,7 +43,7 @@ Run the cells in order to reproduce the results.
 Next Steps
 This project uses Linear Regression as a starting point and was created as part of my learning journey into machine learning.
 
-Future updates may include:
+## Future updates may include:
 Training more advanced models (e.g., Random Forest, XGBoost)
 Hyperparameter tuning
 Feature engineering
@@ -51,8 +51,8 @@ Outlier detection and scaling
 
 These updates will be added and uploaded progressively as I continue learning.
 
-License
+## License
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
-Acknowledgments
+## Acknowledgments
 This is a personal learning project to understand basic regression modeling using real-world data.
